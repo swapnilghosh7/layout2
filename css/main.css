@@ -1,0 +1,224 @@
+.ph-num span{
+    margin: 0 5px;
+    letter-spacing: 0.5px;
+}
+.contact{
+    width: 100%;
+    background-color: rgb(234,234,234);
+    padding: 10px 0px;
+}
+.list-head li{
+    padding: 5px 10px;
+    border-left: 1px solid rgb(227 227 227);
+    color: rgb(165,176,196);
+}
+.list-head li:first-child{
+    border-left-style: hidden;
+}
+.company-logo{
+    padding: 53px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.company-logo h1{
+    font-weight: 900;
+    margin: 10px 0;
+}
+.company-logo span{
+    color: red;
+}
+.company-name{
+    height: 150px;
+}
+.menu-list{
+    
+    border-top: 1px solid rgb(225,225,225);
+}
+
+
+.menu-list ul li{
+    width:120px;
+    padding:15px 0 5px 0;
+    text-align: center;
+    color: rgb(186,135,140);
+        
+}
+.menu-list ul li:hover{
+    border-top: 1px solid rgb(242,109,126);
+    cursor: pointer;        
+}
+
+.image-slider img{
+    width: 100%;
+    height: 450px;
+}
+
+.image-slider{
+    padding: 10px 0;
+}
+.fashion{
+    padding: 20px 0;
+}
+.fashion-ad{
+    width: 550px;
+    height: 250px;
+    
+}
+.fashion-ad{
+    width: 550px;
+    height: 250px;
+    
+}
+
+.fashion-ad img{
+    width:530px;
+    padding:10px 0 10px;
+}
+.products{
+    background-color: white;
+    margin-bottom: 20px;
+}
+.categories{
+    width: 220px;
+    text-align: center;
+    background-color: rgb(242,109,126);
+    
+}
+.categories h3{
+    padding:50px 10px;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+.categories li{
+    padding: 15px 10px;
+    color: white;
+    
+}
+.categories nav{
+    padding: 26px;
+}
+.sort-menu{
+    width: 840px;
+    padding: 30px 20px;
+    border-bottom: 1px solid rgb(225,225,225);
+}
+.sort-list li{
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    
+}
+.sort-menu h6{
+    font-weight: 600;
+}
+.product{
+    width:179px;
+    padding:20px;
+    text-align: center;
+    border-right: 1px solid rgb(225,225,225);
+}
+.product:nth-child(4)
+{
+    border-right-style: hidden;
+}
+.product p, .product h6{
+    margin: 15px;
+    color: rgb(104,104,104);
+}
+.product p:nth-child(2){
+    font-weight: 600;
+}
+
+.product i{
+    font-size: 12px;
+}
+
+.button{
+width:90px;
+    height:30px;
+    background-color: rgb(242,109,126);
+    border-style: hidden;
+    color: white;
+}
+.best-deals{
+    padding: 10px 0; 
+}
+.best-deals img, .support{
+    
+    width:330px;
+    padding-right: 55px;
+}
+.best-deals>img:nth-child(3){
+    padding-right: 0px;
+}
+
+.support-footer{
+    
+    margin: 20px 0 0 0;
+    width: 100%;
+    background-color: rgb(237,237,237);
+}
+.support{
+    width:330px;
+    padding: 20px 55px 20px 0px;
+}
+.brand-name{
+    width:100%;
+    padding: 10px 0;
+}
+.support h5{
+    font-weight: 900;
+}
+.support p{
+    font-size: 14px;
+    padding: 4px 0;
+    color: rgb(122,122,122);
+}
+.brand-name p{
+     display: inline-block;
+    width: 150px;
+}
+.support hr{
+    width:30px;
+    border-top: 1px solid black;
+}
+.about-us>p{
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.hash-tags{
+    margin:20px 0;
+}
+.hash-tags p{
+    padding: 5px;
+    border: 1px solid rgb(127,127,127);
+    display: inline-block;
+    margin: 5px 0;
+}
+.services{
+    padding-right: 0;
+}
+.service, .help{
+    width:165px;
+    padding-bottom: 20px;
+}
+.we-accept img{
+    height: 40px;
+    width: 60px;
+    margin-right: 10px;
+    
+}
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(242,109,126);
+    
+}
+.copyright p{
+    display: inline;
+    font-size: 14px;
+    color: white;
+}

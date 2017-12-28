@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(243,243,243);
+}
+h1{
+    font-size: 32px;
+    
+}
+h2{
+    font-size:26px;
+
+}
+
+h3{
+    font-size:22px;
+}
+h4{
+    font-size:20px;
+    
+}
+
+h5{
+    font-size:18px;
+}
+h6{
+    font-size:16px;
+}
+p{
+    font-size:12px;
+    color: rgb(165,176,196);
+}
+li{
+    font-size: 12px;
+}
+
+.wrapper{
+    width:1100px;
+    margin: 0 auto;
+    
+}
+
+.cf:after{
+    content:" ";
+    display:block;
+    clear: both;
+}
+.fr{
+    float: right;
+    
+}
+.fl{
+    float:left;
+}
