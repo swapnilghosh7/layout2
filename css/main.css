@@ -10,29 +10,39 @@
 .list-head li{
     padding: 5px 10px;
     border-left: 1px solid rgb(227 227 227);
-    color: rgb(165,176,196);
+    color: rgb(105,102,97);
 }
 .list-head li:first-child{
     border-left-style: hidden;
 }
 .company-logo{
-    padding: 53px;
+    padding: 43px;
     width: 300px;
     margin: 0 auto;
     text-align: center;
 }
-.company-logo h1{
+.company-logo>h1{
     font-weight: 900;
     margin: 10px 0;
+    color: rgb(242,109,126);
 }
 .company-logo span{
-    color: red;
+    color: black;
 }
 .company-name{
     height: 150px;
+    position: relative;
+}
+.cart{
+    position: absolute;
+    top: 65px;
+    right: 0;
+}
+.company-logo p{
+ color: rgb(242,109,126);
 }
 .menu-list{
-    
+    height: 40px;
     border-top: 1px solid rgb(225,225,225);
 }
 
@@ -42,6 +52,7 @@
     padding:15px 0 5px 0;
     text-align: center;
     color: rgb(186,135,140);
+    font-weight: 800;
         
 }
 .menu-list ul li:hover{
@@ -65,11 +76,7 @@
     height: 250px;
     
 }
-.fashion-ad{
-    width: 550px;
-    height: 250px;
-    
-}
+
 
 .fashion-ad img{
     width:530px;
@@ -133,6 +140,7 @@
 
 .product i{
     font-size: 12px;
+    color: rgb(165,176,196);
 }
 
 .button{
@@ -174,7 +182,6 @@ width:90px;
 .support p{
     font-size: 14px;
     padding: 4px 0;
-    color: rgb(122,122,122);
 }
 .brand-name p{
      display: inline-block;
@@ -217,8 +224,10 @@ width:90px;
     background-color: rgb(242,109,126);
     
 }
-.copyright p{
-    display: inline;
+.copyright pre{
+
     font-size: 14px;
     color: white;
+    font-weight: 700;
+    font-family: sans-serif;
 }
