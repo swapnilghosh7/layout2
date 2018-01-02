@@ -19,6 +19,7 @@
         background:transparent;
     }
 
+
     body {
         line-height:1;
     }
@@ -52,7 +53,7 @@
         font-size:100%;
         vertical-align:baseline;
         background:transparent;
-        color: #ffffff;
+        color: currentColor;
     }
 
     /* change colours to suit your needs */
